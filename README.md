@@ -1,11 +1,11 @@
 # Education Dataset Analysis (2023–24)
 
 ## Dataset
-Source: District wise Number of Schools, Student Enrollment and Pass Percentage for class X and class XII in Delhi during 2023-2024(https://www.data.gov.in/catalog/delhi-government-school-details) .
+Source: District wise Number of Schools, Student Enrollment and Pass Percentage for class X and class XII in Delhi during 2023-2024 (https://www.data.gov.in/catalog/delhi-government-school-details) .
 
 ## Plots
 1. **Scatter Plot** – Schools v/s Students  
-   Shows the relationship between student enrolment and number of schools in each district.  
+   Shows the relationship between student enrolment and number of schools across districts.  
    
 2. **Box Plot** – Class X Pass %  
    Highlights variation and outliers in the class X pass % of students across districts.  

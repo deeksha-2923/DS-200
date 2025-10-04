@@ -4,14 +4,14 @@
 Source: District wise Number of Schools, Student Enrollment and Pass Percentage for class X and class XII in Delhi during 2023-2024(https://www.data.gov.in/catalog/delhi-government-school-details) .
 
 ## Plots
-1. **Scatter Plot** – Enrolment vs Teachers  
-   Shows the relationship between student enrolment and availability of teachers.  
+1. **Scatter Plot** – Schools v/s Students  
+   Shows the relationship between student enrolment and number of schools in each district.  
    
-2. **Box Plot** – Enrolment Distribution by State/UT  
-   Highlights variation and outliers in student enrolment across different regions.  
+2. **Box Plot** – Class X Pass %  
+   Highlights variation and outliers in the class X pass % of students across districts.  
 
-3. **Line Plot** – Yearly Enrolment Trend  
-   Displays changes in total enrolment across years. (If dataset has Year column.)
+3. **Bar Plot** – Class XII Pass % by District 
+   Displays variation in class XII pass % across districts.
 
 ## Tools
 - Python

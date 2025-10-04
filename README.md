@@ -5,12 +5,15 @@ Source: District wise Number of Schools, Student Enrollment and Pass Percentage 
 
 ## Plots
 1. **Scatter Plot** – Schools v/s Students  
+
    Shows the relationship between student enrolment and number of schools across districts.  
    
 2. **Box Plot** – Class X Pass %
+
    Highlights variation and outliers in the class X pass % of students across districts.  
 
 3. **Bar Plot** – Class XII Pass % by District
+
    Displays variation in class XII pass % across districts.
 
 ## Tools
